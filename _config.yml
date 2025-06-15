@@ -26,7 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   入会料、年会費は無料で、どなたでも入会できます。みなさまの参加をお待ちしております。
 domain: "xpjug.github.io"
 # baseurl: "/xpjug.github.io/" # the subpath of your site, e.g. /blog
-url: "https://xpjug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://xpjug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "msntts.github.io/xpjug.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xpjug
 github_username: xpjug
 
