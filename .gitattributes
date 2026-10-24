@@ -1,0 +1,3 @@
+# Bundler compares the lockfile byte-for-byte in frozen/deployment mode
+# (as used in CI), so CRLF line endings make `bundle install` fail there.
+Gemfile.lock text eol=lf
